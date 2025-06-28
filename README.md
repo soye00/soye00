@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>
-  💡 What I've Used 💡
+  💡 What I've Used 
 </h2>
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -44,7 +44,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>    
 </p>
 
-<h2>👩‍💻 IDE</h2>
+<h2>
+  👩‍💻 IDE
+</h2>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
